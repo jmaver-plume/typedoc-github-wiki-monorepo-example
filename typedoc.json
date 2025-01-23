@@ -1,0 +1,14 @@
+{
+  "$schema": "https://typedoc-plugin-markdown.org/schema.json",
+  "name": "packages-example",
+  "entryPoints": ["multiply", "sum"],
+  "entryPointStrategy": "packages",
+  "plugin": ["typedoc-plugin-markdown"],
+  "readme": "./README.md",
+  "mergeReadme": true,
+  "indexFormat": "table",
+  "parametersFormat": "table",
+  "hidePageHeader": true,
+  "outputFileStrategy": "modules",
+  "packageOptions": { "gitRevision": "main" }
+}

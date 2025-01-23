@@ -1,0 +1,16 @@
+{
+  "name": "monorepo-package-prototype",
+  "workspaces": [
+    "multiply",
+    "sum"
+  ],
+  "packageManager": "npm@10.9.0",
+  "version": "1.0.0",
+  "scripts": {
+    "wiki:generate": "typedoc"
+  },
+  "devDependencies": {
+    "typedoc": "^0.27.6",
+    "typedoc-plugin-markdown": "^4.4.1"
+  }
+}
