@@ -1,6 +1,8 @@
-[packages-example](../../README.md) / @jmaver-plume/multiply
+[packages-example](../README.md) / @jmaver-plume/multiply
 
-# @jmaver-plume/multiply
+# multiply
+
+A package that provides a function to multiply two numbers.
 
 ## Functions
 

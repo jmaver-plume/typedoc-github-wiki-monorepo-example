@@ -1,5 +1,4 @@
 {
   "entryPoints": ["./lib/index.ts"],
-  "includeVersion": true,
-  "readme": "none"
+  "includeVersion": true
 }

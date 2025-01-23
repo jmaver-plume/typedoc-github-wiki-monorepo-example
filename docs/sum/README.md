@@ -1,6 +1,8 @@
-[packages-example](../../README.md) / @jmaver-plume/sum
+[packages-example](../README.md) / @jmaver-plume/sum
 
-# @jmaver-plume/sum
+# sum
+
+A package that provides a function to sum two numbers.
 
 ## Functions
 
