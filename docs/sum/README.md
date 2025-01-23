@@ -4,20 +4,14 @@
 
 A package that provides a function to sum two numbers.
 
-## Functions
+## Documents
 
-### sum()
-
-> **sum**(...`args`): `number`
-
-Defined in: [index.ts:1](https://github.com/jmaver-plume/typedoc-github-wiki-monorepo-example/blob/main/sum/lib/index.ts#L1)
-
-#### Parameters
-
-| Parameter | Type |
+| Document | Description |
 | ------ | ------ |
-| ...`args` | `number`[] |
+| [MIGRATION\_GUIDE](documents/MIGRATION_GUIDE.md) | - |
 
-#### Returns
+## Modules
 
-`number`
+| Module | Description |
+| ------ | ------ |
+| [index](index.md) | - |

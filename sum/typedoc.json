@@ -1,4 +1,6 @@
 {
+  "$schema": "",
   "entryPoints": ["./lib/index.ts"],
-  "includeVersion": true
+  "includeVersion": true,
+  "projectDocuments": ["MIGRATION_GUIDE.md"]
 }
